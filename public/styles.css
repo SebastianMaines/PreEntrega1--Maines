@@ -1,0 +1,22 @@
+.brand-logo {
+    font-size: 80rem;
+    padding-left: 100px;
+}
+
+.cart-widget {
+    display: flex;
+    align-items: center;
+}
+
+.cart-count {
+    margin-left: 5px;
+    font-size: 1rem;
+    color: white;
+
+}
+
+.item-list-container {
+    padding: 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
